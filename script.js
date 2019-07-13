@@ -18,7 +18,7 @@ let techKaro = {
         numberOfStudents: 100,
         NumberOfEmployess: 20,
         sponcers: {
-            sponser1: "Engro Vopak",
+            sponcer: "Engro Vopak",
             aboutSponser: "",
             email: "engrovopak@.org",
             contactNumebr: 021 - 3457,
@@ -98,7 +98,7 @@ let techKaro = {
         numberOfProgramManagers: 2,
         discriptionsOfProgramManagers: [
             {
-                programManager1: "Tuba Mohsin",
+                programManager: "Tuba Mohsin",
                 position: "manager",
                 contactNumber: "034567812",
                 email: "tubamohsin@gmail.com",
@@ -119,7 +119,7 @@ let techKaro = {
                 certification: ["free code camp", "management certification"],
                 awards: ["best manager", "developer of the year"],
             }, {
-                programManager2: "Mashaal",
+                programManager: "Mashaal",
                 position: "Manager",
                 contactNumber: "0345778912",
                 email: "mashalkhan65@gmail.com",
@@ -146,7 +146,7 @@ let techKaro = {
         numberOfEmbassaders: 10,
         discriptionsOfEmbassadors: [
             {
-                embassader1: "miss khairun nisa",
+                embassader: "miss khairun nisa",
                 position: "embassader",
                 contactNumber: "0345778782",
                 email: "kahirun-nisa45@gmail.com",
@@ -174,7 +174,7 @@ let techKaro = {
                 awards: ["null"],
                 isPreviuosAtudentOfTechkaro: "false"
             }, {
-                embassader2: "miss arsala",
+                embassader: "miss arsala",
                 position: "embassader",
                 contactNumber: "0345778782",
                 email: "arslaali5@gmail.com",
@@ -202,7 +202,7 @@ let techKaro = {
                 awards: ["null"],
                 isPreviuosAtudentOfTechkaro: "false"
             }, {
-                embassader3: "sir ali",
+                embassader: "sir ali",
                 position: "embassader",
                 contactNumber: "03457786572",
                 email: "alibahdur@gmail.com",
@@ -230,7 +230,7 @@ let techKaro = {
                 awards: ["null"],
                 isPreviuosAtudentOfTechkaro: "false"
             }, {
-                embassader4: "miss rabia",
+                embassader: "miss rabia",
                 position: "embassader",
                 contactNumber: "0345772382",
                 email: "rabiakhan-45@gmail.com",
@@ -286,7 +286,7 @@ let techKaro = {
         namesOfStudentsOfGroupA: ["nazia", "khadija", "mahnoor", "nusheen", "aliraza", "talat"],
         namesOfStudentsOfGroupB: ["fatima", "kaiser", "kokab", "faizan", "somia", "armia"],
         discriptionsOfStudentsOfGroupA: [{
-            student1: "nazia",
+            student: "nazia",
             fullName: "Nazia Jaffer",
             contactNumber: 0345 - 6897823,
             email: "naziajaffer34@gmail.com",
@@ -323,7 +323,7 @@ let techKaro = {
             intrests: ["coding", "learing", "java script"],
             anyCertification: ["soft skill", "language", "CIT"]
         }, {
-            student2: "FATIMA",
+            student: "FATIMA",
             fullName: "fatima aman",
             contactNumber: 0345 - 687823,
             email: "fatimaaman@gmail.com",
@@ -361,7 +361,7 @@ let techKaro = {
             intrests: ["coding", "learing", "java script"],
             anyCertification: ["soft skill", "language", "CIT"]
         }, {
-            student3: "armia",
+            student: "armia",
             fullName: "armia mohsin",
             contactNumber: 0357 - 682343,
             email: "armiamohsin@gmail.com",
@@ -399,7 +399,7 @@ let techKaro = {
             anyCertification: ["soft skill", "language", "CIT"]
         }],
         discriptionsOfStudentsOfGroupB: [{
-            student1: "kainat",
+            student: "kainat",
             fullName: "kaiat naz",
             contactNumber: 0357 - 4797200,
             email: "kainat-jaz@gmail.com",
@@ -436,7 +436,7 @@ let techKaro = {
             intrests: ["coding", "learing", "watching movies"],
             anyCertification: ["language", "CIT"]
         }, {
-            student2: "shayan",
+            student: "shayan",
             fullName: "shayanejaz45@gmail.com",
             contactNumber: "0333-68533",
             email: "shayanejaz45@gmail.com",
@@ -474,7 +474,7 @@ let techKaro = {
             intrests: ["coding", "drawing", "graphics"],
             anyCertification: ["soft skill", "graphics", "CIT"]
         }, {
-            student2: "somia",
+            student: "somia",
             fullName: "somi ansari",
             contactNumber: 0345 - 687823,
             email: "somia-ansari@gmail.com",
@@ -603,14 +603,7 @@ let techKaro = {
         isCareemCodeAreAvailable: "true",
         days: "saturday",
     },
-
-
-
-
-
-
 }
-
 
 
 
